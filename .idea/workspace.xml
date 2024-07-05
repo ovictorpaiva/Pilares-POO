@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83d65e0-be0e-4a00-830f-ff57fddeb258" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/ComputadorPedrinho.java" afterDir="false" />
+    <list default="true" id="e83d65e0-be0e-4a00-830f-ff57fddeb258" name="Changes" comment="Encapsulamento">
+      <change afterPath="$PROJECT_DIR$/src/FacebookMessenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServicoMensagemInstantanea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Telegram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComputadorPedrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComputadorPedrinho.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MSNMessenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MSNMessenger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +59,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="ComputadorPedrinho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComputadorPedrinho" />
@@ -87,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720209664454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Encapsulamento">
+      <option name="closed" value="true" />
+      <created>1720210106885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720210106885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulamento" />
   </component>
 </project>
