@@ -14,7 +14,6 @@ public class ComputadorPedrinho {
         fb.enviarMensagem();
         fb.receberMensagem();
 
-
         Telegram tlg = new Telegram();
         System.out.println("Telegram");
         tlg.enviarMensagem();
