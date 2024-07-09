@@ -9,4 +9,8 @@ public class MSNMessenger extends ServicoMensagemInstantanea {
     public void receberMensagem() {
         System.out.println("Recebendo mensagem pelo MSN");
     }
+
+    public void salvarHistoricoMensagem() {
+        System.out.println("Histórico de mensagem salva");
+    }
 }

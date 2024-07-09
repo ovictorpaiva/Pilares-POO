@@ -23,5 +23,6 @@ public class ComputadorPedrinho {
 
         smi.enviarMensagem();
         smi.receberMensagem();
+        smi.salvarHistoricoMensagem();
     }
 }
